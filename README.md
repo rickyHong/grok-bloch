@@ -1,5 +1,5 @@
 # Ⓗ grok-bloch
-Application that helps user understand the Bloch Sphere
+Application that helps user understand the Bloch Sphere(update)
 
 # 🚀 Use it:
 
